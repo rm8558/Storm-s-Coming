@@ -1,0 +1,119 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!--<item name="android:navigationBarColor">@color/colorPrimaryDark</item>-->
+    </style>
+
+    <style name="weatherTempText">
+        <item name="android:textSize">@dimen/weatherTempSize</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="addtionalDataLabel">
+        <item name="android:textColor">@color/colorAdditionalLabelValue</item>
+        <item name="android:textSize">@dimen/additionalDataLabelSize</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_marginLeft">@dimen/additionalDataLabelMarginLeft</item>
+        <item name="android:layout_marginRight">@dimen/additionalDataLabelMarginRight</item>
+        <item name="android:layout_marginBottom">@dimen/additionalDataLabelMarginBottom</item>
+    </style>
+
+    <style name="additionalDataValue">
+        <item name="android:textColor">@color/colorAdditionalDataValue</item>
+        <item name="android:textSize">@dimen/additionalDataValueSize</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_marginLeft">@dimen/additionalDataValueMarginLeft</item>
+        <item name="android:layout_marginRight">@dimen/additionalDataValueMarginRight</item>
+        <item name="android:layout_marginBottom">@dimen/additionalDataValueMarginBottom</item>
+    </style>
+
+    <style name="additionalMessage">
+        <item name="android:textColor">@color/colorAdditionalMessage</item>
+        <item name="android:textSize">@dimen/additionalMessageSize</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_marginLeft">@dimen/additionalMessageMarginLeft</item>
+        <item name="android:layout_marginRight">@dimen/additionalMessageMarginRight</item>
+        <item name="android:layout_marginTop">@dimen/additionalMessageMarginTop</item>
+        <item name="android:layout_marginBottom">@dimen/additionalMessageMarginBottom</item>
+    </style>
+
+    <style name="timestamp">
+        <item name="android:textSize">@dimen/timestampTextSize</item>
+        <item name="android:textColor">@color/colorTimestamp</item>
+    </style>
+
+    <style name="weatherSummary">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">@dimen/weatherSummaryTextSize</item>
+    </style>
+
+    <style name="cityName">
+        <item name="android:textSize">@dimen/cityNameTextSize</item>
+        <item name="android:textColor">@color/colorCityName</item>
+    </style>
+
+    <style name="lowerMainButtons">
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textSize">@dimen/lowerMainButtonsTextSize</item>
+        <item name="android:background">@color/colorLowerMainBG</item>
+        <item name="android:layout_marginRight">6dp</item>
+        <item name="android:layout_marginLeft">6dp</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:layout_marginBottom">6dp</item>
+    </style>
+
+    <style name="dailyListItemTempText">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="dailyListItemDayText">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="dailyListItemSummaryText">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="dailyHeader">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="dailyFooter">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="hourlyTimestampText">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="hourlyTemperature">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="hourlySummary">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="emptyList">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Storm\'s Coming</string>
+    <string name="API_KEY">bdb7658649253a3de670615f17834c84</string>
+    <string name="defaultDegreeCelsius">100°C</string>
+    <string name="humidityLabel">HUMIDITY</string>
+    <string name="precipitationLabel">PRECIPITATION</string>
+    <string name="defaultAdditionalMessage">A storm is brewing</string>
+    <string name="defaultTimestamp">30-OCT-2016 10:00:00 A.M.</string>
+    <string name="defaultTempValue">...</string>
+    <string name="defaultDecimalFormat">%1$.2f</string>
+    <string name="defaultWeatherSummary">Sunny</string>
+    <string name="defaultCity">Kolkata, IN</string>
+    <string name="connectionErrorMessage">Please check your network connection</string>
+    <string name="errorDialogTitle">Error</string>
+    <string name="okButtonLabel">OK</string>
+    <string name="defaultHumidity">...</string>
+    <string name="defaultPrecipitation">...</string>
+    <string name="nothing_to_display">Nothing to display</string>
+    <string name="weeklyDataHeader">WEEKLY DATA</string>
+    <string name="defaultDailyFooter">Kolkata, IN</string>
+</resources>

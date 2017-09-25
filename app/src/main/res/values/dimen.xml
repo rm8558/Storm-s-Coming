@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="weatherTempSize">80sp</dimen>
+    <dimen name="additionalDataLabelSize">16sp</dimen>
+    <dimen name="additionalDataLabelMarginLeft">8dp</dimen>
+    <dimen name="additionalDataLabelMarginRight">8dp</dimen>
+    <dimen name="additionalDataLabelMarginBottom">8dp</dimen>
+    <dimen name="additionalDataValueSize">16sp</dimen>
+    <dimen name="additionalDataValueMarginLeft">8dp</dimen>
+    <dimen name="additionalDataValueMarginRight">8dp</dimen>
+    <dimen name="additionalDataValueMarginBottom">8dp</dimen>
+    <dimen name="additionalMessageSize">16sp</dimen>
+    <dimen name="additionalMessageMarginLeft">8dp</dimen>
+    <dimen name="additionalMessageMarginRight">8dp</dimen>
+    <dimen name="additionalMessageMarginBottom">8dp</dimen>
+    <dimen name="additionalMessageMarginTop">16dp</dimen>
+    <dimen name="timestampTextSize">14sp</dimen>
+    <dimen name="weatherIconDimension">100dp</dimen>
+    <dimen name="weatherSummaryTextSize">20sp</dimen>
+    <dimen name="cityNameTextSize">20sp</dimen>
+    <dimen name="lowerMainButtonsTextSize">16sp</dimen>
+</resources>
